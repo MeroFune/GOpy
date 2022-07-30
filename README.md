@@ -44,6 +44,7 @@ To run the script from source via Python, you need the following:
 - python-osc 
 - pyopenvr 
 These can be partially found in `requirements_build_env.txt`.
+
 Calling `pip install  -r requirements_build_env.txt` installs all requirements, and a fork of pyopenvr that allows building from executable.
 
 Building an executable from source has further requirements:
